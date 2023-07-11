@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "790696123229",
+    "project_id": "nisipet-3a9b4",
+    "storage_bucket": "nisipet-3a9b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790696123229:android:7409473a26e887aa05a6b4",
+        "android_client_info": {
+          "package_name": "com.example.nisipet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790696123229-vitids3se7ol07sve48io0p261p52eto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC7445g2uMhYmCxjSKlF1iWXdQ9ZqZyjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790696123229-vitids3se7ol07sve48io0p261p52eto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
